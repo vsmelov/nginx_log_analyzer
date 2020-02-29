@@ -1,0 +1,14 @@
+192.168.122.1 - - [27/Jan/2020:14:54:20 +0000]"GET /index.html HTTP/1.1" 304 0 "-" "http_user_agent" "-"nginx="
+192.168.122.1 - - [27/Jan/2020:14:54:20 +0000]"GET /index.html HTTP/1.1" 304 0 "-" "http_user_agent" "-"nginx="
+192.168.122.1 - - [27/Jan/2020:14:55:17 +0000]"GET /index5.html HTTP/1.1" 304 0 "-" "http_user_agent" "-nginx=
+192.168.122.1 - - [27/Jan/2020:14:55:17 +0000]"GET /favicon.ico HTTP/1.1" 404 152 "-" "http_user_agent" "1.26nginx=
+192.168.122.1 - - [27/Jan/2020:14:55:17 +0000]"GET /index.html HTTP/1.1" 304 0 "-" "http_user_agent" "-nginx=
+92.168.122.1 - - [27/Jan/2020:14:56:26 +0000] "GET /index3.html HTTP/1.1" 304 0 "-" "http_user_agent" "-" nginx=
+192.168.122.1 - - [27/Jan/2020:14:56:26 +0000] "GET /index2.html HTTP/1.1" 304 0 "-" "http_user_agent" "-" nginx=
+192.168.122.1 - - [27/Jan/2020:14:56:26 +0000] 304 0 "-" "http_user_agent" "-" nginx=0.000
+192.168.122.1
+192.168.122.1 - - [27/Jan/2020:14:56:26 +0000] 304 0 "-" "http_user_agent" "-" nginx=0.000
+192.168.122.1 - - [27/Jan/2020:14:56:26 +0000] 304 0 "-" "http_user_agent" "-" nginx=0.000
+192.168.122.1
+192.168.122.1 - - [27/Jan/2020:14:56:27 +0000] "GET /index.html HTTP/1.1" 304 0 "-" "http_user_agent" "-" nginx=
+192.168.122.1 - - [27/Jan/2020:14:56:27 +0000] "GET /index.html HTTP/1.1" 304 0 "-" "http_user_agent" "-" nginx=
